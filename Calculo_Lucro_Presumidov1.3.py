@@ -7,6 +7,7 @@ import pandas as pd
 # =========================================================
 # CONFIGURAÇÃO DE DIRETÓRIOS E BANCOS DE DADOS
 # =========================================================
+
 DB_DIR = "db"
 XLSX_DIR = "Excel"
 
